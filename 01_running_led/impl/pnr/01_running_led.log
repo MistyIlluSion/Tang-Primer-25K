@@ -1,0 +1,29 @@
+Reading netlist file: "D:\Tang-Primer-25K\01_running_led\impl\gwsynthesis\01_running_led.vg"
+Parsing netlist file "D:\Tang-Primer-25K\01_running_led\impl\gwsynthesis\01_running_led.vg" completed
+Processing netlist completed
+Reading constraint file: "D:\Tang-Primer-25K\01_running_led\src\01_running_led.cst"
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "D:\Tang-Primer-25K\01_running_led\impl\pnr\01_running_led.power.html" completed
+Generate file "D:\Tang-Primer-25K\01_running_led\impl\pnr\01_running_led.pin.html" completed
+Generate file "D:\Tang-Primer-25K\01_running_led\impl\pnr\01_running_led.rpt.html" completed
+Generate file "D:\Tang-Primer-25K\01_running_led\impl\pnr\01_running_led.rpt.txt" completed
+Generate file "D:\Tang-Primer-25K\01_running_led\impl\pnr\01_running_led.tr.html" completed
+Thu Mar 13 21:43:26 2025
+

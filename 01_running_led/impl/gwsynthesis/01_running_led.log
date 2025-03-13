@@ -1,0 +1,682 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'D:\Tang-Primer-25K\01_running_led\src\running_led.v'
+Compiling module 'RunningLED'("D:\Tang-Primer-25K\01_running_led\src\running_led.v":1)
+NOTE  (EX0101) : Current top module is "RunningLED"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+WARN  (AG0100) : Find logical loop signal : "n173"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[32]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[32]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[32]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[32]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n6"
+WARN  (AG0100) : Find logical loop signal : "n173"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n6"
+WARN  (AG0100) : Find logical loop signal : "n175"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[32]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[32]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[32]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[32]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n6"
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n178"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[31]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[31]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[31]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[31]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n7"
+WARN  (AG0100) : Find logical loop signal : "n178"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n7"
+WARN  (AG0100) : Find logical loop signal : "n180"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[31]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[31]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[31]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[31]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n7"
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n182"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[30]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[30]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[30]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[30]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n8"
+WARN  (AG0100) : Find logical loop signal : "n182"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n8"
+WARN  (AG0100) : Find logical loop signal : "n184"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[30]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[30]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[30]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[30]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n8"
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n186"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[29]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[29]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[29]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[29]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n9"
+WARN  (AG0100) : Find logical loop signal : "n186"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n9"
+WARN  (AG0100) : Find logical loop signal : "n188"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[29]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[29]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[29]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[29]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n9"
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n190"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[28]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[28]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[28]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[28]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n10"
+WARN  (AG0100) : Find logical loop signal : "n190"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n10"
+WARN  (AG0100) : Find logical loop signal : "n192"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[28]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[28]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[28]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[28]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n10"
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n194"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[27]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[27]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[27]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[27]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n11"
+WARN  (AG0100) : Find logical loop signal : "n194"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n11"
+WARN  (AG0100) : Find logical loop signal : "n196"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[27]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[27]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[27]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[27]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n11"
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n198"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[26]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[26]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[26]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[26]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n12"
+WARN  (AG0100) : Find logical loop signal : "n198"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n12"
+WARN  (AG0100) : Find logical loop signal : "n200"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[26]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[26]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[26]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[26]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n12"
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n202"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[25]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[25]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[25]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[25]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n13"
+WARN  (AG0100) : Find logical loop signal : "n202"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n13"
+WARN  (AG0100) : Find logical loop signal : "n204"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[25]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[25]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[25]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[25]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n13"
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n206"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[24]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[24]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[24]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[24]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n14"
+WARN  (AG0100) : Find logical loop signal : "n206"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n14"
+WARN  (AG0100) : Find logical loop signal : "n208"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[24]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[24]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[24]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[24]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n14"
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n210"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[23]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[23]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[23]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[23]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n15"
+WARN  (AG0100) : Find logical loop signal : "n210"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n15"
+WARN  (AG0100) : Find logical loop signal : "n212"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[23]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[23]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[23]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[23]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n15"
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n214"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[22]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[22]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[22]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[22]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n16"
+WARN  (AG0100) : Find logical loop signal : "n214"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n16"
+WARN  (AG0100) : Find logical loop signal : "n216"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[22]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[22]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[22]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[22]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n16"
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n218"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[21]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[21]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[21]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[21]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n17"
+WARN  (AG0100) : Find logical loop signal : "n218"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n17"
+WARN  (AG0100) : Find logical loop signal : "n220"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[21]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[21]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[21]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[21]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n17"
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n222"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[20]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[20]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[20]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[20]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n18"
+WARN  (AG0100) : Find logical loop signal : "n222"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n18"
+WARN  (AG0100) : Find logical loop signal : "n224"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[20]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[20]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[20]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[20]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n18"
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n226"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[19]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[19]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[19]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[19]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n19"
+WARN  (AG0100) : Find logical loop signal : "n226"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n19"
+WARN  (AG0100) : Find logical loop signal : "n228"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[19]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[19]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[19]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[19]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n19"
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n230"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[18]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[18]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[18]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[18]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n20"
+WARN  (AG0100) : Find logical loop signal : "n230"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n20"
+WARN  (AG0100) : Find logical loop signal : "n232"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[18]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[18]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[18]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[18]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n20"
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n234"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[17]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[17]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[17]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[17]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n21"
+WARN  (AG0100) : Find logical loop signal : "n234"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n21"
+WARN  (AG0100) : Find logical loop signal : "n236"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[17]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[17]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[17]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[17]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n21"
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n238"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[16]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[16]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[16]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[16]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n22"
+WARN  (AG0100) : Find logical loop signal : "n238"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n22"
+WARN  (AG0100) : Find logical loop signal : "n240"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[16]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[16]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[16]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[16]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n22"
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n242"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[15]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[15]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[15]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[15]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n23"
+WARN  (AG0100) : Find logical loop signal : "n242"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n23"
+WARN  (AG0100) : Find logical loop signal : "n244"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[15]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[15]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[15]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[15]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n23"
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n246"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[14]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[14]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[14]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[14]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n24"
+WARN  (AG0100) : Find logical loop signal : "n246"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n24"
+WARN  (AG0100) : Find logical loop signal : "n248"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[14]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[14]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[14]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[14]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n24"
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n250"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[13]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[13]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[13]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[13]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n25"
+WARN  (AG0100) : Find logical loop signal : "n250"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n25"
+WARN  (AG0100) : Find logical loop signal : "n252"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[13]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[13]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[13]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[13]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n25"
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n254"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[12]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[12]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[12]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[12]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n26"
+WARN  (AG0100) : Find logical loop signal : "n254"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n26"
+WARN  (AG0100) : Find logical loop signal : "n256"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[12]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[12]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[12]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[12]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n26"
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n258"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[11]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[11]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[11]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[11]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n27"
+WARN  (AG0100) : Find logical loop signal : "n258"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n27"
+WARN  (AG0100) : Find logical loop signal : "n260"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[11]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[11]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[11]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[11]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n27"
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n262"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[10]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[10]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[10]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[10]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n28"
+WARN  (AG0100) : Find logical loop signal : "n262"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n28"
+WARN  (AG0100) : Find logical loop signal : "n264"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[10]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[10]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[10]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[10]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n28"
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n266"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[9]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[9]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[9]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[9]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n29"
+WARN  (AG0100) : Find logical loop signal : "n266"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n29"
+WARN  (AG0100) : Find logical loop signal : "n268"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[9]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[9]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[9]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[9]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n29"
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n270"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[8]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[8]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[8]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[8]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n30"
+WARN  (AG0100) : Find logical loop signal : "n270"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n30"
+WARN  (AG0100) : Find logical loop signal : "n272"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[8]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[8]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[8]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[8]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n30"
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n274"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[7]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[7]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[7]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[7]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n31"
+WARN  (AG0100) : Find logical loop signal : "n274"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n31"
+WARN  (AG0100) : Find logical loop signal : "n276"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[7]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[7]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[7]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[7]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n31"
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n278"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[6]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[6]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[6]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[6]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n32"
+WARN  (AG0100) : Find logical loop signal : "n278"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n32"
+WARN  (AG0100) : Find logical loop signal : "n280"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[6]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[6]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[6]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[6]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n32"
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n282"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[5]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[5]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[5]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[5]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n33"
+WARN  (AG0100) : Find logical loop signal : "n282"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n33"
+WARN  (AG0100) : Find logical loop signal : "n284"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[5]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[5]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[5]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[5]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n33"
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n286"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[4]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[4]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[4]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[4]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n34"
+WARN  (AG0100) : Find logical loop signal : "n286"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n34"
+WARN  (AG0100) : Find logical loop signal : "n288"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[4]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[4]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[4]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[4]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n34"
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n290"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[3]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[3]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[3]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[3]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n35"
+WARN  (AG0100) : Find logical loop signal : "n290"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n35"
+WARN  (AG0100) : Find logical loop signal : "n292"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[3]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[3]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[3]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[3]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n35"
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n294"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[2]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[2]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[2]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[2]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n36"
+WARN  (AG0100) : Find logical loop signal : "n294"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n36"
+WARN  (AG0100) : Find logical loop signal : "n296"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[2]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[2]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[2]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[2]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n36"
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n298"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[1]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[1]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[1]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[1]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n37"
+WARN  (AG0100) : Find logical loop signal : "n298"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n302"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[0]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[0]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[0]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[0]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n302"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n300"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[1]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[1]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[1]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[1]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n37"
+WARN  (AG0100) : Find logical loop signal : "n300"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "n304"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[0]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[0]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[0]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[0]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "n304"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[32]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[32]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[32]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[31]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[31]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[31]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[30]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[30]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[30]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[29]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[29]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[29]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[28]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[28]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[28]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[27]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[27]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[27]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[26]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[26]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[26]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[25]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[25]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[25]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[24]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[24]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[24]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[23]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[23]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[23]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[22]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[22]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[22]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[21]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[21]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[21]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[20]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[20]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[20]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[19]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[19]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[19]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[18]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[18]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[18]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[17]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[17]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[17]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[16]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[16]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[16]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[15]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[15]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[15]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[14]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[14]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[14]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[13]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[13]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[13]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[12]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[12]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[12]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[11]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[11]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[11]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[10]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[10]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[10]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[9]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[9]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[9]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[8]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[8]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[8]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[7]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[7]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[7]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[6]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[6]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[6]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[5]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[5]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[5]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[4]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[4]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[4]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[3]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[3]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[3]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[2]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[2]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[2]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[1]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[1]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[1]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+WARN  (AG0100) : Find logical loop signal : "counter[0]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[0]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0100) : Find logical loop signal : "counter[0]"("D:\Tang-Primer-25K\01_running_led\src\running_led.v":24)
+WARN  (AG0101) : The netlist is not one directed acyclic graph
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+[95%] Generate netlist file "D:\Tang-Primer-25K\01_running_led\impl\gwsynthesis\01_running_led.vg" completed
+[100%] Generate report file "D:\Tang-Primer-25K\01_running_led\impl\gwsynthesis\01_running_led_syn.rpt.html" completed
+GowinSynthesis finish
