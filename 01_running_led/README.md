@@ -125,7 +125,11 @@ Now we have `.v`, `.cst` and `.sdc` files.
 
 ## Place & Route
 
-Double click `Place & Route` to run.
+Right-click `Place & Route` and open configuration. In `Dual-Purpose Pin`, check `Use CPU as regular IO`.
+
+![Place and route configuration](../images/place_and_route_configuration.png)
+
+Then click OK. Double click `Place & Route` to run.
 
 ![Place & route](../images/place_and_route.png)
 

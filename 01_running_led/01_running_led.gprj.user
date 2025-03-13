@@ -4,21 +4,14 @@
     <Version>1.0</Version>
     <FlowState>
         <Process ID="Synthesis" State="2"/>
-        <Process ID="Pnr" State="2"/>
-        <Process ID="Gao" State="2"/>
+        <Process ID="Pnr" State="0"/>
+        <Process ID="Gao" State="0"/>
         <Process ID="Rtl_Gao" State="2"/>
         <Process ID="Gvio" State="0"/>
-        <Process ID="Place" State="2"/>
+        <Process ID="Place" State="0"/>
     </FlowState>
     <ResultFileList>
         <ResultFile ResultFileType="RES.netlist" ResultFilePath="impl/gwsynthesis/01_running_led.vg"/>
-        <ResultFile ResultFileType="RES.pnr.bitstream" ResultFilePath="impl/pnr/01_running_led.fs"/>
-        <ResultFile ResultFileType="RES.pnr.pin.rpt" ResultFilePath="impl/pnr/01_running_led.pin.html"/>
-        <ResultFile ResultFileType="RES.pnr.posp.bin" ResultFilePath="impl/pnr/01_running_led.db"/>
-        <ResultFile ResultFileType="RES.pnr.pwr.rpt" ResultFilePath="impl/pnr/01_running_led.power.html"/>
-        <ResultFile ResultFileType="RES.pnr.report" ResultFilePath="impl/pnr/01_running_led.rpt.html"/>
-        <ResultFile ResultFileType="RES.pnr.timing.paths" ResultFilePath="impl/pnr/01_running_led.timing_paths"/>
-        <ResultFile ResultFileType="RES.pnr.timing.rpt" ResultFilePath="impl/pnr/01_running_led.tr.html"/>
         <ResultFile ResultFileType="RES.syn.report" ResultFilePath="impl/gwsynthesis/01_running_led_syn.rpt.html"/>
         <ResultFile ResultFileType="RES.syn.resource" ResultFilePath="impl/gwsynthesis/01_running_led_syn_rsc.xml"/>
     </ResultFileList>
