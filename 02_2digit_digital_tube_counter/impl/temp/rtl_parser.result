@@ -1,0 +1,28 @@
+[
+ {
+  "InstFile" : "D:/Tang-Primer-25K/02_2digit_digital_tube_counter/src/top.v",
+  "InstLine" : 26,
+  "InstName" : "digital_tube_counter",
+  "ModuleFile" : "D:/Tang-Primer-25K/02_2digit_digital_tube_counter/src/top.v",
+  "ModuleLine" : 26,
+  "ModuleName" : "digital_tube_counter",
+  "SubInsts" : [
+   {
+    "InstFile" : "D:/Tang-Primer-25K/02_2digit_digital_tube_counter/src/top.v",
+    "InstLine" : 90,
+    "InstName" : "u_digit_ones",
+    "ModuleFile" : "D:/Tang-Primer-25K/02_2digit_digital_tube_counter/src/top.v",
+    "ModuleLine" : 2,
+    "ModuleName" : "bcd_counter"
+   },
+   {
+    "InstFile" : "D:/Tang-Primer-25K/02_2digit_digital_tube_counter/src/top.v",
+    "InstLine" : 91,
+    "InstName" : "u_digit_tens",
+    "ModuleFile" : "D:/Tang-Primer-25K/02_2digit_digital_tube_counter/src/top.v",
+    "ModuleLine" : 2,
+    "ModuleName" : "bcd_counter"
+   }
+  ]
+ }
+]
